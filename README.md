@@ -9,5 +9,5 @@ Devilrawan/Devilrawan is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-https://github.com/Vretlee/WhatsApp-Crasher/raw/main/Virus%20Updated%20By%20 devil.txt
+
 
